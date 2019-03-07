@@ -32,10 +32,16 @@ footer {
   text-align: center;
 }
 
+/* About button */
 .b1 {
   font-size: 500px;
 }
 
+/* Github button */
+.b2 {
+
+}
+/* tarseir photo */
 .tartar {
   position: relative;
   top: 395px;
